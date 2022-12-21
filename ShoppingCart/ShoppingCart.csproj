@@ -18,4 +18,9 @@
       </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Pages\Components\CategoriesVIewComponet\Default.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Components\CategoriesVIewComponent\Default.cshtml" />
+    </ItemGroup>
+
 </Project>
